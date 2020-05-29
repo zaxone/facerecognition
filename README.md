@@ -9,7 +9,7 @@ To download this amazing thing run the following command:
 git clone https://github.com/zaxone/facerecognition.git
 ```
 
-To install it run the following command:
+To install it run the following command as root:
 ```markdown
 sh install.sh
 ```
