@@ -4,7 +4,7 @@ Face recognition system to be used when starting the computer to identify the us
 
 ### Installation
 
-To download this amazing thing run the following commands:
+To download this amazing thing run the following command:
 ```markdown
 git clone https://github.com/zaxone/facerecognition.git
 ```
