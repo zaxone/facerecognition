@@ -8,9 +8,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ```markdown
-gitcone -g facerecognition ./fr
-
-[Link](url) and ![Image](src)
+git clone https://github.com/zaxone/facerecognition.git
 ```
 
 ### Support or Contact
