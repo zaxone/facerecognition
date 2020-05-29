@@ -2,13 +2,16 @@
 
 Face recognition system to be used when starting the computer to identify the user in front of the machine. If the user is legitimate, it will be connected to its account. Still, if it is not recognised as a legitimate user, either because no person is detected on camera or because the user cannot be recognised, it will be signed-in to a fake account.
 
-### Markdown
+### Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+To download this amazing thing run the following commands:
 ```markdown
 git clone https://github.com/zaxone/facerecognition.git
+```
+
+To install it run the following commands:
+```markdown
+sh install.sh
 ```
 
 ### Support or Contact
