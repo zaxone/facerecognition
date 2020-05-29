@@ -1,7 +1,3 @@
-# Header 1
-
-ff
-
 ## Welcome to Face Recognition System
 
 Face recognition system to be used when starting the computer to identify the user in front of the machine. If the user is legitimate, it will be connected to its account. Still, if it is not recognised as a legitimate user, either because no person is recognised on camera or because the user cannot be connected, it will be linked to a fake account.
@@ -28,10 +24,6 @@ gitcone -g facerecognition ./fr
 ```markdown
 dd
 ```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaxone/facerecognition/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
