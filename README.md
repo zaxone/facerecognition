@@ -16,6 +16,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+gitcone -g facerecognition ./fr
 - Bulleted
 - List
 
