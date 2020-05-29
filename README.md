@@ -1,6 +1,6 @@
 ## Welcome to Face Recognition System
 
-You can use the [editor on GitHub](https://github.com/zaxone/facerecognition/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Face recognition system to be used when starting the computer to identify the user in front of the machine. If the user is legitimate, it will be connected to his account. Still, if he is not recognised as a legal user, either because no person is recognised on camera or because the user cannot be connected, it will be linked to a fake account.
 
 ### Markdown
 
