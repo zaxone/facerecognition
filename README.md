@@ -8,21 +8,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-
 gitcone -g facerecognition ./fr
-- Bulleted
-
-1. Numbered
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-```markdown
-dd
 ```
 
 ### Support or Contact
