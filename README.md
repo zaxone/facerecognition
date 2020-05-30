@@ -6,6 +6,8 @@ Face recognition system to be used when starting the computer to identify the us
 
 1. Any systemd Linux should be fine (OpenSUSE, Ubuntu etc)
 2. Python 3.7
+3. Webcamera
+4. Face
 
 All dependencies will be installed automatically in a virtual environment, so as not conflict with other installed applications' dependencies.
 
