@@ -1,6 +1,6 @@
 ## Welcome to Face Recognition System
 
-Face recognition system to be used when starting the computer to identify the user in front of the machine. If the user is legitimate, it will be connected to its account. Still, if it is not recognised as a legitimate user, either because no person is detected on camera or because the user cannot be recognised, it will be signed-in to a fake account.
+Face recognition system to be used when starting the computer to identify the user in front of the machine. If the user is legitimate, it will be connected to its account. Still, if it is not recognised as a legitimate user, either because no person is detected on camera or because the user cannot be recognised, it will be connected to a fake account.
 
 ### Requirements
 
